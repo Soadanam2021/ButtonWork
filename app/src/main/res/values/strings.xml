@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">playerapp</string>
+    <string name="player_select">SelectPlayer</string>
+    <string name="Playername">No Player Selected</string>
+
+    <string-array name="Players">
+        <item>Mbappe</item>
+        <item>Vinicius Junior</item>
+        <item>Rodrigo</item>
+        <item>Valverde</item>
+        <item>Luka Modric</item>
+        <item>Brahim Dias</item>
+        <item>Camavinga</item>
+        <item>Dani Carvajal</item>
+        <item>Militao</item>
+        <item>Rudiger</item>
+        <item>Mendy</item>
+        <item>Andre Lulin</item>
+    </string-array>
+</resources>
